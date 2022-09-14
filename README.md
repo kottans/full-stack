@@ -1,11 +1,9 @@
-[![Kottans-Frontend][icon-kottans]][kottans-frontend]
 [![MIT Licensed][icon-mit]][license]
-[![Awesome][icon-awesome]][awesome]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-# Front-End Course
+# FullStack RoR + FrontEnd course (uner construction)
 
-This repository contains materials for frontend course. Here you can find tasks for qualification phase (required to join the main course) and main course (comes later).
+This repository contains materials for FullStack course. Here you can find tasks for qualification phase (required to join the main course) and main course.
 
 You can use these materials for self-education as well.
 
