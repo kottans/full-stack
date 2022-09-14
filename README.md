@@ -9,7 +9,7 @@ You can use these materials for self-education as well.
 
 ### Dates & Deadlines
 
-For the 2020-2021 course, the preparatory stage starts 12.10.2020 and ends in December. The main course starts in December (exact dates to be announced)
+...
 
 ### Admission
 
